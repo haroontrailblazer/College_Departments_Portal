@@ -1,0 +1,23 @@
+# College Extension Application Requirements
+# Install these packages before running the application
+
+# For password hashing (recommended for production)
+bcrypt>=4.0.1
+
+# For creating executables
+pyinstaller>=5.0
+
+# Standard library modules (included with Python)
+# - tkinter (GUI)
+# - socket (networking)
+# - threading (multi-threading)
+# - sqlite3 (database)
+# - json (data serialization)
+# - hashlib (password hashing - basic)
+# - csv (data export)
+# - datetime (timestamps)
+
+# Installation commands:
+# pip install -r requirements.txt
+# or
+# pip install bcrypt pyinstaller
